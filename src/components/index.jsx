@@ -6,6 +6,7 @@ const Home = () => {
     <>
       <First />
       <div>Here is Home page</div>
+      <main>Commit Master</main>
     </>
   );
 };
